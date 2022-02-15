@@ -1,0 +1,38 @@
+body{
+   background-color: rgb(231, 231, 231);
+   font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+
+.container{
+    background-color:white;
+    border-radius: 10px;
+}
+
+.nav-link{
+    color:black;
+}
+.px-4 {
+    border: 10px;
+}
+
+.d-block {
+    border-radius: 50px;
+}
+
+.px-4{
+   background-color: white;
+   border-radius: 50px;
+}
+
+
+.iframe{
+    text-align: left;
+    
+}
+
+
+
+
+
